@@ -1,1 +1,1 @@
-// TODO: module build file
+dependencies {}
