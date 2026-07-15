@@ -17,3 +17,7 @@ build/
 ### Env ###
 .env
 .env.local
+
+### Node ###
+node_modules/
+agentry-dashboard/frontend/dist/
