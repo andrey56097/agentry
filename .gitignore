@@ -21,3 +21,4 @@ build/
 ### Node ###
 node_modules/
 agentry-dashboard/frontend/dist/
+agentry.log

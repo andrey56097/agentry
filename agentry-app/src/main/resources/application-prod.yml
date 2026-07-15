@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://${AGENTRY_DB_HOST}:${AGENTRY_DB_PORT}/${AGENTRY_DB_NAME}
+
+logging:
+  level:
+    com.agentry: INFO

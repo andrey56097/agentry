@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/agentry_dev
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: validate
+
+logging:
+  level:
+    com.agentry: DEBUG
+    org.hibernate.SQL: DEBUG

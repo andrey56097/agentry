@@ -13,8 +13,5 @@ val buildReact by tasks.registering(Exec::class) {
     workingDir = file("frontend")
     commandLine("npm", "run", "build")
     outputs.dir("src/main/resources/static")
-}
-
-tasks.named("compileJava") {
-    dependsOn(buildReact)
+    onlyIf { file("frontend/package.json").exists() }
 }
