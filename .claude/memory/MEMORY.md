@@ -1,0 +1,2 @@
+- [Project Structure](project-structure.md) — current module layout and dependencies
+- [Architecture Decisions](arch-decisions.md) — key ADRs and rationale
