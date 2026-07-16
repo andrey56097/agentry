@@ -123,18 +123,18 @@ Each task has a token budget controlled by the user. Agents **autonomously decid
 
 ## 🗺️ Project Roadmap
 
-| Phase | What | Status |
+| Stage | What | Status |
 |-------|------|--------|
-| — | Project scaffolding (multi-module, CI, Claude Code AI infra) | ✅ Done |
-| **1** | Core orchestration + agents + logging | 🚧 Active |
-| **2** | Git integration + real CI/CD | 📋 Planned |
-| **3** | Dashboard (React + SSE) | 📋 Planned |
-| **4** | Automation & hooks | 📋 Planned |
-| **5** | Multi-provider agents | 📋 Planned |
-| **6** | Memory autodream | 📋 Planned |
-| **7** | Real project integration | 📋 Planned |
-| **8** | Authorization & BYOK | 📋 Planned |
-| **9** | LLM response caching | 📋 Planned |
+| **Scaffolding** | Project setup: multi-module Gradle, CI/CD, Claude Code AI infra | ✅ Done |
+| **Етап 1** | Core orchestration + agents + logging | 🚧 Active |
+| **Етап 2** | Git integration + real CI/CD | 📋 Planned |
+| **Етап 3** | Dashboard (React + SSE) | 📋 Planned |
+| **Етап 4** | Automation & hooks | 📋 Planned |
+| **Етап 5** | Multi-provider agents | 📋 Planned |
+| **Етап 6** | Memory autodream | 📋 Planned |
+| **Етап 7** | Real project integration | 📋 Planned |
+| **Етап 8** | Authorization & BYOK | 📋 Planned |
+| **Етап 9** | LLM response caching | 📋 Planned |
 
 ---
 
