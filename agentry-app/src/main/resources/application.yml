@@ -24,6 +24,12 @@ spring:
 server:
   port: 8080
 
+agentry:
+  llm:
+    provider: ${AGENTRY_LLM_PROVIDER:ANTHROPIC}
+    api-key: ${AGENTRY_LLM_API_KEY:}
+    model: ${AGENTRY_LLM_MODEL:claude-sonnet-4-20250514}
+
 logging:
   level:
     com.agentry: DEBUG
