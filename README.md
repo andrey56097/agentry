@@ -126,15 +126,15 @@ Each task has a token budget controlled by the user. Agents **autonomously decid
 | Stage | What | Status |
 |-------|------|--------|
 | **Scaffolding** | Project setup: multi-module Gradle, CI/CD, Claude Code AI infra | ✅ Done |
-| **Етап 1** | Core orchestration + agents + logging | 🚧 Active |
-| **Етап 2** | Git integration + real CI/CD | 📋 Planned |
-| **Етап 3** | Dashboard (React + SSE) | 📋 Planned |
-| **Етап 4** | Automation & hooks | 📋 Planned |
-| **Етап 5** | Multi-provider agents | 📋 Planned |
-| **Етап 6** | Memory autodream | 📋 Planned |
-| **Етап 7** | Real project integration | 📋 Planned |
-| **Етап 8** | Authorization & BYOK | 📋 Planned |
-| **Етап 9** | LLM response caching | 📋 Planned |
+| **Stage 1** | Core orchestration + agents + logging | 🚧 Active |
+| **Stage 2** | Git integration + real CI/CD | 📋 Planned |
+| **Stage 3** | Dashboard (React + SSE) | 📋 Planned |
+| **Stage 4** | Automation & hooks | 📋 Planned |
+| **Stage 5** | Multi-provider agents | 📋 Planned |
+| **Stage 6** | Memory autodream | 📋 Planned |
+| **Stage 7** | Real project integration | 📋 Planned |
+| **Stage 8** | Authorization & BYOK | 📋 Planned |
+| **Stage 9** | LLM response caching | 📋 Planned |
 
 ---
 
