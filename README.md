@@ -125,7 +125,8 @@ Each task has a token budget controlled by the user. Agents **autonomously decid
 
 | Phase | What | Status |
 |-------|------|--------|
-| **1** | Core orchestration + agents + logging | 🚧 In progress |
+| — | Project scaffolding (multi-module, CI, Claude Code AI infra) | ✅ Done |
+| **1** | Core orchestration + agents + logging | 🚧 Active |
 | **2** | Git integration + real CI/CD | 📋 Planned |
 | **3** | Dashboard (React + SSE) | 📋 Planned |
 | **4** | Automation & hooks | 📋 Planned |
