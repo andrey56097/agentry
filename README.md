@@ -7,7 +7,7 @@
 
   *Write code, not tickets — AI agents collaborate to build, test, and improve your code through real CI/CD.*
 
-  [![Build & Test](https://github.com/andrey56097/agentry/actions/workflows/build.yml/badge.svg)](https://github.com/andriibats/agentry/actions/workflows/build.yml)
+  [![Build & Test](https://github.com/andrey56097/agentry/actions/workflows/build.yml/badge.svg)](https://github.com/andrey56097/agentry/actions/workflows/build.yml)
   [![Java](https://img.shields.io/badge/Java-21-%23ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/)
   [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4-%236DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
   [![Gradle](https://img.shields.io/badge/Gradle-8.12-%2302303A?logo=gradle&logoColor=white)](https://gradle.org/)
